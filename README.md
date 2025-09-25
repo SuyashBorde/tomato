@@ -10,8 +10,8 @@ A Flutter food ordering workflow app built with BloC architecture following SOLI
 |-------------|-----------------|-------------|
 | ![Home](screenshots/home.jpg) | ![Menu](screenshots/menu.jpg) | ![Cart](screenshots/cart.jpg) |
 
-| Order Confirmation | History Screen 
-|-------------------|----------------|---------------|
+| Order Confirmation | History Screen | 
+|-------------------|----------------|
 | ![Confirmation](screenshots/order_confirmation.jpg) | ![History](screenshots/history.jpg) |
 
 ## Features
